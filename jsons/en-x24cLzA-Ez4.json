@@ -1,0 +1,571 @@
+{
+  "video_details": {
+    "video_id": "x24cLzA-Ez4",
+    "title": "Best Use of Web3Auth Web SDKs - ETHOnline 2024",
+    "description": "Join us for a workshop with Yashovardhan Agrawal titled, \"Best Use of Web3Auth Web SDKs  \" \n\nThis workshop is part of ETHOnline 2024, an async hackathon that takes place from Aug 23 – Sept 13, 2024. \n\n-----------------\n\nFollow us:  \n\nhttps://x.com/ethglobal\nCheck us out: https://ethglobal.com/\nEmail us at: hello@ethglobal.com",
+    "caption_status": "false",
+    "embed_html": "<iframe width=\"480\" height=\"360\" src=\"//www.youtube.com/embed/x24cLzA-Ez4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  },
+  "captions": [
+    {
+      "start": "0.56",
+      "dur": "4.88",
+      "text": "hello thanks a lot for joining in for"
+    },
+    {
+      "start": "2.679",
+      "dur": "4.6",
+      "text": "eth online and checking out web3 o in"
+    },
+    {
+      "start": "5.44",
+      "dur": "4.52",
+      "text": "this video I'll quickly explain to you"
+    },
+    {
+      "start": "7.279",
+      "dur": "5.24",
+      "text": "what is web3 O how you can utilize it in"
+    },
+    {
+      "start": "9.96",
+      "dur": "5.559",
+      "text": "your application and the prices we are"
+    },
+    {
+      "start": "12.519",
+      "dur": "5.881",
+      "text": "offering for this hackathon so let's get"
+    },
+    {
+      "start": "15.519",
+      "dur": "4.801",
+      "text": "right into it so web3 o is an onboarding"
+    },
+    {
+      "start": "18.4",
+      "dur": "5.92",
+      "text": "software for anybody who wants to get"
+    },
+    {
+      "start": "20.32",
+      "dur": "6.119",
+      "text": "into and try out web3 apps so it's a Dap"
+    },
+    {
+      "start": "24.32",
+      "dur": "4",
+      "text": "level software so think about it if you"
+    },
+    {
+      "start": "26.439",
+      "dur": "3.881",
+      "text": "are a Dap and you want to onboard users"
+    },
+    {
+      "start": "28.32",
+      "dur": "3.88",
+      "text": "you don't have to go and ask them to"
+    },
+    {
+      "start": "30.32",
+      "dur": "3.759",
+      "text": "connect your metamask sign transaction"
+    },
+    {
+      "start": "32.2",
+      "dur": "4.64",
+      "text": "again and again because that experience"
+    },
+    {
+      "start": "34.079",
+      "dur": "4.281",
+      "text": "is lot hindering over here you can just"
+    },
+    {
+      "start": "36.84",
+      "dur": "4.92",
+      "text": "ask them to connect to their Google"
+    },
+    {
+      "start": "38.36",
+      "dur": "5.359",
+      "text": "account just like that and after that a"
+    },
+    {
+      "start": "41.76",
+      "dur": "3.639",
+      "text": "wallet will be generated for them"
+    },
+    {
+      "start": "43.719",
+      "dur": "3.48",
+      "text": "internally and it will be a"
+    },
+    {
+      "start": "45.399",
+      "dur": "3.561",
+      "text": "non-custodial wallet that's the biggest"
+    },
+    {
+      "start": "47.199",
+      "dur": "4.321",
+      "text": "point and they can utilize it for"
+    },
+    {
+      "start": "48.96",
+      "dur": "5.119",
+      "text": "signing transactions sending any uh to"
+    },
+    {
+      "start": "51.52",
+      "dur": "4.48",
+      "text": "any blockchain and you can have a good"
+    },
+    {
+      "start": "54.079",
+      "dur": "4.32",
+      "text": "looking UI over here you can see your"
+    },
+    {
+      "start": "56",
+      "dur": "5.199",
+      "text": "nfts and whatever you want within the UI"
+    },
+    {
+      "start": "58.399",
+      "dur": "6.12",
+      "text": "itself and end to end the whole process"
+    },
+    {
+      "start": "61.199",
+      "dur": "5.401",
+      "text": "is handled by web3 Au foru so at this"
+    },
+    {
+      "start": "64.519",
+      "dur": "4.441",
+      "text": "hackathon what we are offering is a"
+    },
+    {
+      "start": "66.6",
+      "dur": "5.48",
+      "text": "bunch of prizes for a multiple sdks"
+    },
+    {
+      "start": "68.96",
+      "dur": "5.4",
+      "text": "multiple Integrations and for web3 or"
+    },
+    {
+      "start": "72.08",
+      "dur": "4.399",
+      "text": "web sdks that includes the plug-in play"
+    },
+    {
+      "start": "74.36",
+      "dur": "4.88",
+      "text": "SDK the one I showed you was plugin play"
+    },
+    {
+      "start": "76.479",
+      "dur": "5.881",
+      "text": "experience as well as SFA which is our"
+    },
+    {
+      "start": "79.24",
+      "dur": "7.239",
+      "text": "low-level SDK for single factors it's an"
+    },
+    {
+      "start": "82.36",
+      "dur": "7.04",
+      "text": "MPC or uh like shallow MPC SDK over here"
+    },
+    {
+      "start": "86.479",
+      "dur": "6.361",
+      "text": "the main prices are for full MPC uh SDK"
+    },
+    {
+      "start": "89.4",
+      "dur": "6.039",
+      "text": "down over here for sh shallow MPC uh"
+    },
+    {
+      "start": "92.84",
+      "dur": "4.599",
+      "text": "single factor and plug-in play uh sdks"
+    },
+    {
+      "start": "95.439",
+      "dur": "4.72",
+      "text": "what you can do is have a look at the"
+    },
+    {
+      "start": "97.439",
+      "dur": "5.561",
+      "text": "SDK reference this particular SDK plug-"
+    },
+    {
+      "start": "100.159",
+      "dur": "5.64",
+      "text": "andplay web as well as uh cor kit SFA"
+    },
+    {
+      "start": "103",
+      "dur": "5.719",
+      "text": "web SDK we are offering up to 1,500 to"
+    },
+    {
+      "start": "105.799",
+      "dur": "7.801",
+      "text": "two teams that is 750 per team uh bonus"
+    },
+    {
+      "start": "108.719",
+      "dur": "7.08",
+      "text": "points for most uh well utilized SDK uh"
+    },
+    {
+      "start": "113.6",
+      "dur": "3.559",
+      "text": "like experience I will say and generally"
+    },
+    {
+      "start": "115.799",
+      "dur": "3.32",
+      "text": "how you want to create the user"
+    },
+    {
+      "start": "117.159",
+      "dur": "4.201",
+      "text": "experience I uh will be the greatest"
+    },
+    {
+      "start": "119.119",
+      "dur": "3.801",
+      "text": "point over here custom authentication is"
+    },
+    {
+      "start": "121.36",
+      "dur": "4.64",
+      "text": "one of the features we are definitely"
+    },
+    {
+      "start": "122.92",
+      "dur": "5.759",
+      "text": "looking forward to see you build upon uh"
+    },
+    {
+      "start": "126",
+      "dur": "5.36",
+      "text": "similarly the next uh price is for"
+    },
+    {
+      "start": "128.679",
+      "dur": "5.321",
+      "text": "mobile and gaming sdks so we have"
+    },
+    {
+      "start": "131.36",
+      "dur": "5.08",
+      "text": "plug-in play Android iOS react native"
+    },
+    {
+      "start": "134",
+      "dur": "4.68",
+      "text": "flutter Unity unreal all sorts of things"
+    },
+    {
+      "start": "136.44",
+      "dur": "4.64",
+      "text": "you want to utilize whatever sdq you"
+    },
+    {
+      "start": "138.68",
+      "dur": "5.4",
+      "text": "want to utilize and similarly SFA has"
+    },
+    {
+      "start": "141.08",
+      "dur": "5.72",
+      "text": "Android iOS react native and we are also"
+    },
+    {
+      "start": "144.08",
+      "dur": "5.04",
+      "text": "offering for node in the same category"
+    },
+    {
+      "start": "146.8",
+      "dur": "4.48",
+      "text": "so these prices are here if you want to"
+    },
+    {
+      "start": "149.12",
+      "dur": "5.36",
+      "text": "have a look at it and up one team will"
+    },
+    {
+      "start": "151.28",
+      "dur": "5.599",
+      "text": "get $1,000 over here again similar rules"
+    },
+    {
+      "start": "154.48",
+      "dur": "4.36",
+      "text": "apply the best utilization of the SDK"
+    },
+    {
+      "start": "156.879",
+      "dur": "4.64",
+      "text": "the most features used will be winning"
+    },
+    {
+      "start": "158.84",
+      "dur": "5.679",
+      "text": "the prize and you can have a look at all"
+    },
+    {
+      "start": "161.519",
+      "dur": "5.121",
+      "text": "the resources given directly over here"
+    },
+    {
+      "start": "164.519",
+      "dur": "3.881",
+      "text": "before coming to the main SDK that we"
+    },
+    {
+      "start": "166.64",
+      "dur": "4.08",
+      "text": "want to see a lot of Integrations on I"
+    },
+    {
+      "start": "168.4",
+      "dur": "4.4",
+      "text": "will tell you that web3 o is totally"
+    },
+    {
+      "start": "170.72",
+      "dur": "3.56",
+      "text": "chain agnostic and almost everything"
+    },
+    {
+      "start": "172.8",
+      "dur": "3.68",
+      "text": "that you can utilize with any other"
+    },
+    {
+      "start": "174.28",
+      "dur": "4.4",
+      "text": "wallet can be utilized with be Trio we"
+    },
+    {
+      "start": "176.48",
+      "dur": "4.759",
+      "text": "have already given some resources with"
+    },
+    {
+      "start": "178.68",
+      "dur": "5.479",
+      "text": "the co-sponsor over here here uh like"
+    },
+    {
+      "start": "181.239",
+      "dur": "5.241",
+      "text": "multiple chains and also uh Stacks like"
+    },
+    {
+      "start": "184.159",
+      "dur": "4.36",
+      "text": "XMP sign protocol example will be coming"
+    },
+    {
+      "start": "186.48",
+      "dur": "4.36",
+      "text": "up as well you can directly utilize them"
+    },
+    {
+      "start": "188.519",
+      "dur": "5",
+      "text": "and see how you can uh make a basic"
+    },
+    {
+      "start": "190.84",
+      "dur": "5.16",
+      "text": "integration of web3 from these examples"
+    },
+    {
+      "start": "193.519",
+      "dur": "6.161",
+      "text": "and uh utilize it further according to"
+    },
+    {
+      "start": "196",
+      "dur": "6.12",
+      "text": "your needs the next is the MPC gkit SDK"
+    },
+    {
+      "start": "199.68",
+      "dur": "4.199",
+      "text": "the main SDK we are offering prices upon"
+    },
+    {
+      "start": "202.12",
+      "dur": "4.36",
+      "text": "you can look at all the resources that"
+    },
+    {
+      "start": "203.879",
+      "dur": "5.481",
+      "text": "we have given and if you go go to the"
+    },
+    {
+      "start": "206.48",
+      "dur": "4.6",
+      "text": "quick start MPC gkit is right over here"
+    },
+    {
+      "start": "209.36",
+      "dur": "3.799",
+      "text": "and you you can see a basic integration"
+    },
+    {
+      "start": "211.08",
+      "dur": "4.48",
+      "text": "of MPC how it looks like for your"
+    },
+    {
+      "start": "213.159",
+      "dur": "5.201",
+      "text": "application so this is a lowlevel SDK"
+    },
+    {
+      "start": "215.56",
+      "dur": "4.48",
+      "text": "and you can create an MFA experience and"
+    },
+    {
+      "start": "218.36",
+      "dur": "3.72",
+      "text": "that is the main thing that we are"
+    },
+    {
+      "start": "220.04",
+      "dur": "4.759",
+      "text": "looking forward to see you do and the"
+    },
+    {
+      "start": "222.08",
+      "dur": "5.439",
+      "text": "best experience and the best overall G"
+    },
+    {
+      "start": "224.799",
+      "dur": "4.601",
+      "text": "pric is also here so you can utilize"
+    },
+    {
+      "start": "227.519",
+      "dur": "5.121",
+      "text": "alongside other prizes you can win this"
+    },
+    {
+      "start": "229.4",
+      "dur": "6.08",
+      "text": "as well so up to uh 2500 for sure a team"
+    },
+    {
+      "start": "232.64",
+      "dur": "5.2",
+      "text": "can grab if they can so this is here and"
+    },
+    {
+      "start": "235.48",
+      "dur": "4.679",
+      "text": "we'll judge the technical execution the"
+    },
+    {
+      "start": "237.84",
+      "dur": "5.319",
+      "text": "idea feasibility the user experience"
+    },
+    {
+      "start": "240.159",
+      "dur": "5.8",
+      "text": "most of all and you can win prizes"
+    },
+    {
+      "start": "243.159",
+      "dur": "4.601",
+      "text": "accordingly so have a look at all the"
+    },
+    {
+      "start": "245.959",
+      "dur": "4.601",
+      "text": "different prizes let us know in our"
+    },
+    {
+      "start": "247.76",
+      "dur": "4.8",
+      "text": "community post uh like community portal"
+    },
+    {
+      "start": "250.56",
+      "dur": "3.879",
+      "text": "over here just create a post and uh"
+    },
+    {
+      "start": "252.56",
+      "dur": "3.72",
+      "text": "similarly on the Discord Channel offered"
+    },
+    {
+      "start": "254.439",
+      "dur": "4.601",
+      "text": "by eth we'll be active over there as"
+    },
+    {
+      "start": "256.28",
+      "dur": "4.519",
+      "text": "well any questions you have just post it"
+    },
+    {
+      "start": "259.04",
+      "dur": "3.56",
+      "text": "over here multiple technical questions"
+    },
+    {
+      "start": "260.799",
+      "dur": "4.68",
+      "text": "are already answered so have a look at"
+    },
+    {
+      "start": "262.6",
+      "dur": "5.159",
+      "text": "it as well and just let us know whatever"
+    },
+    {
+      "start": "265.479",
+      "dur": "4.72",
+      "text": "you want uh help upon we are happy to"
+    },
+    {
+      "start": "267.759",
+      "dur": "5",
+      "text": "help so looking forward to seeing great"
+    },
+    {
+      "start": "270.199",
+      "dur": "7.161",
+      "text": "projects at this hackathon and see you"
+    },
+    {
+      "start": "272.759",
+      "dur": "4.601",
+      "text": "on the other side bye"
+    }
+  ]
+}

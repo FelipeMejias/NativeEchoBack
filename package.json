@@ -1,0 +1,31 @@
+{   
+    "type":"module",
+    "name": "nativeecho",
+    "version": "1.0.0",
+    "description": "Empowering AI agent translation on the blockchain.",
+    "main":"index.js",
+    "scripts":{
+        "dev":"nodemon index.js",
+        "start": "node server.js"
+    },
+    "author":"Ahmed & Felipe",
+    "license":"ISC",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/anonUnderground/NativeEcho.git"
+    },
+    "bugs": {
+      "url": "https://github.com/anonUnderground/NativeEcho/issues"
+    },
+    "homepage": "https://github.com/anonUnderground/NativeEcho#readme",
+    "dependencies":{
+        "cors":"^2.8.5",
+        "dotenv":"^16.4.7",
+        "express":"^4.21.2",
+        "googleapis": "^144.0.0",
+        "youtube-captions-scraper": "^2.0.3"
+    },
+    "devDependencies": {
+        "nodemon":"^3.1.9"
+  }
+}
